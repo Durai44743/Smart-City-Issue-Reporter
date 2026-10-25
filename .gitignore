@@ -1,0 +1,23 @@
+# Compiled Java output
+out/
+*.class
+sources.txt
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+secrets.properties
+
+# SQLite database files (review before publishing)
+*.db
+*.db-shm
+*.db-wal
