@@ -27,7 +27,6 @@ The application demonstrates how Java, JDBC, SQL, and a database can be combined
 - Department assignment
 - Database-backed record storage
 
-*Note: Update this list to match the features actually implemented in your version.*
 
 ## 🛠️ Technologies Used
 
@@ -84,18 +83,7 @@ The project uses SQLite for local database storage and JDBC for database connect
 
 Database tables and initialization depend on the application source code. Follow the database setup instructions in the source or project documentation before using a fresh installation.
 
-## 📊 Data Flow and Design
 
-The project documentation includes a Level 2 Data Flow Diagram (DFD) and a Use Case Diagram describing the major actors, processes, and data flows.
-
-Add the diagram files or images to this repository if you want visitors to view them directly.
-
-## 🔒 Security and Privacy
-
-- Do not commit passwords, secret keys, or private configuration files.
-- Use only sample data when sharing the project publicly.
-- Review database files and default credentials before publishing.
-- Do not use real personal information in demonstration records.
 
 ## 🎓 Academic Project
 
@@ -103,8 +91,9 @@ This project was developed as an academic software project to demonstrate Java d
 
 ## 👨‍💻 Contributors
 
-Add your project team members here, along with their contributions if required by your college.
+  Durairasu S P (2025503062),
+  Vijay Kumar M(2025503040),
+  Dhanush P(2025503066),
+  Mohammad Afjal(2025503076),
+  Sivaraj V(2025503028).
 
-## 📄 License
-
-No license has been specified yet. Add an appropriate open-source license only if you have permission to publish and license all included code and assets.
